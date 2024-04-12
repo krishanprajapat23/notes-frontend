@@ -1,1 +1,1 @@
-# notes-frontend
+# FullStack React Notes App
